@@ -1,4 +1,4 @@
-from simple_basic_strategy import *
+from basic_strategy_dict import *
 #created by Nut-Stack
 '''
 https://www.blackjackclassroom.com/wp-content/uploads/2017/02/Double-Deck-Basic-Strategy-Chart.png
