@@ -1,4 +1,4 @@
-#created by Nut-Stack
+#Created by Nut-Stack
 
 '''
 hit = 0
